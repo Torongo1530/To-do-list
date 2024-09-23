@@ -1,0 +1,56 @@
+
+header{
+    background-color: #7385b8;
+    color: antiquewhite;
+    position: fixed;
+    width: 100%;
+    top: 0%;
+    height: 45px;
+}
+.logo{
+    font-family: URW Chancery L;
+    font-size: 30px;
+}
+
+body{
+    background-color: rgb(200, 206, 205);
+}
+.main{
+    margin-top: 10vh;
+    width: 70%;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+.titulo h2{
+    font-family: URW Chancery L;
+    display: inline;
+
+}
+.boton i{
+    font-size: 30px;
+    text-align: end;
+}
+.nav-bar{
+    text-align: center; 
+}
+.descripcion{
+    margin-top: 75px;
+    text-align: center;
+}
+
+.footer{
+    background-color: #7385b8;
+    color: white;
+    text-align: center;
+    bottom: 0;
+    position: fixed;
+    padding: 15px;
+}
+.table tr{
+    padding: 0 80px;
+    text-align: center;
+}
+.addButton{
+    border: none;
+    background-color: transparent;
+}
